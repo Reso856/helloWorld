@@ -1,2 +1,2 @@
 # helloWorld
-This repository belongs to patidar.
+This repository belongs to Vikas Patidar.
